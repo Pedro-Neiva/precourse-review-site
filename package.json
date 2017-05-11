@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Pedro-Neiva/precourse-review-site#readme",
   "dependencies": {
+    "browserify": "^14.3.0",
     "express": "^4.15.2"
   }
 }
